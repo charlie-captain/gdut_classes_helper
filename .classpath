@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Progran place/java/Shool/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
